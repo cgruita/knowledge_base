@@ -3,8 +3,7 @@
 
     <string name="hello">Hello World, AndroidDetectInternetConnectionActivity!</string>
     <string name="app_name">AndroidDetectInternetConnection</string>
-    <string name="app_name">You can either check the connection status directly (by pressing the button) or
 
-    </string>
+  
 
 </resources>
